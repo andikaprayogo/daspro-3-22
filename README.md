@@ -19,7 +19,7 @@ Proyek ini merupakan sebuah program ... yang berfungsi untuk ... dan dapat digun
 # Alur Program
  ![Flowchart](C:/Users/ASUS/Downloads/flow_page-0001.jpg)
 
-
+ <img src="https://user-images.githubusercontent.com/64983961/197766887-e70b7a6b-6da4-45dc-af3e-7ed955e28e9f.png" alt="Cartesian Coordinates 2D" title="Cartesian Coordinates 2D" width="50%">
 - 
 - ...
 
