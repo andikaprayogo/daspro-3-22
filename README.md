@@ -31,4 +31,4 @@ Proyek ini merupakan sebuah program menghitung total harga belanja. Program ini 
                          
 
 # Video
-[Video Program untuk Menghitung Total Harga Belanja](https://youtu.be/Aqv1eigTf18 "Program untuk Menghitung Total Harga Belanja")
+![Video Program untuk Menghitung Total Harga Belanja](https://youtu.be/Aqv1eigTf18 "Program untuk Menghitung Total Harga Belanja")
