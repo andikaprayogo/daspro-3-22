@@ -17,7 +17,7 @@ Universitas Sumatera Utara
 Proyek ini merupakan sebuah program ... yang berfungsi untuk ... dan dapat digunakan oleh ... Program ini dapat bermanfaat bagi ... dan membantu ... Program ini bertujuan untuk ... (dst.)
 
 # Alur Program
-- ![Flowchart](file:///C:/Users/ASUS/Downloads/flow_page-0001.webp.jpg)
+- ![Flowchart](file:///C:/Users/ASUS/Downloads/flow_page-0001.webp)
 
 
 - ...
