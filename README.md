@@ -20,7 +20,7 @@ Proyek ini merupakan sebuah program ... yang berfungsi untuk ... dan dapat digun
 - ![Flowchart](C:\Users\ASUS\Downloads\flow_page-0001.jpg)
 
 
-- ...
+- ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 - ...
 
 # Video
