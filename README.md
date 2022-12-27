@@ -19,7 +19,7 @@ Proyek ini merupakan sebuah program ... yang berfungsi untuk ... dan dapat digun
 # Alur Program
  ![Flowchart](C:/Users/ASUS/Downloads/flow_page-0001.jpg)
 
- <img src="C:/Users/ASUS/Downloads/flow_page-0001.jpg" width="50%">
+ <img src="file:///C:/Users/ASUS/Downloads/flow_page-0001.webp" width="50%">
 - 
 - ...
 
