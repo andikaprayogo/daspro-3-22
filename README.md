@@ -17,8 +17,8 @@ Universitas Sumatera Utara
 Proyek ini merupakan sebuah program ... yang berfungsi untuk ... dan dapat digunakan oleh ... Program ini dapat bermanfaat bagi ... dan membantu ... Program ini bertujuan untuk ... (dst.)
 
 # Alur Program
-- cd /path/to/directory
-Flowchart untuk menghitung total harga belanja.sdr
+- graph TD;
+- start --> Masukkan jumlah produk yang dibeli;
 
 - ...
 - ...
