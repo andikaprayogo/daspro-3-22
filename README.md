@@ -17,8 +17,8 @@ Universitas Sumatera Utara
 Proyek ini merupakan sebuah program ... yang berfungsi untuk ... dan dapat digunakan oleh ... Program ini dapat bermanfaat bagi ... dan membantu ... Program ini bertujuan untuk ... (dst.)
 
 # Alur Program
- 
- ![flow_page-0001](https://user-images.githubusercontent.com/116491264/209611244-14803689-7e47-4de9-8261-87e4a76569d1.jpg)
+ - Flowchart
+ ![Flowchart untuk menghitung total harga belanja_page-0001](https://user-images.githubusercontent.com/116491264/209615597-f1e73d54-244c-4bd9-80a0-19a24701a20f.jpg)
                          
 - ...
 
