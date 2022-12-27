@@ -17,8 +17,7 @@ Universitas Sumatera Utara
 Proyek ini merupakan sebuah program ... yang berfungsi untuk ... dan dapat digunakan oleh ... Program ini dapat bermanfaat bagi ... dan membantu ... Program ini bertujuan untuk ... (dst.)
 
 # Alur Program
-- graph TD;
-- start --> Masukkan jumlah produk yang dibeli;
+- ![Flowchart](flow_page-0001.jpg)
 
 - ...
 - ...
