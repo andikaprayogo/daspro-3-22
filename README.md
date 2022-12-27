@@ -17,10 +17,10 @@ Universitas Sumatera Utara
 Proyek ini merupakan sebuah program ... yang berfungsi untuk ... dan dapat digunakan oleh ... Program ini dapat bermanfaat bagi ... dan membantu ... Program ini bertujuan untuk ... (dst.)
 
 # Alur Program
-- ![Flowchart](C:\Users\ASUS\Downloads\flow_page-0001.jpg)
+- ![Flowchart](C:/Users/ASUS/Downloads/flow_page-0001.jpg)
 
 
-- ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+- 
 - ...
 
 # Video
