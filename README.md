@@ -19,29 +19,8 @@ Proyek ini merupakan sebuah program ... yang berfungsi untuk ... dan dapat digun
 # Alur Program
  ![Flowchart](C:/Users/ASUS/Downloads/flow_page-0001.jpg)
 
- <img src="C:/Users/ASUS/Downloads/flow_page-0001.jpg" width="50%">
--                               +------------+
-                              | Start      |
-                              +------------+
-                                     |
-                                     v
-                              +------------+
-                              | Step 1     |
-                              +------------+
-                                     |
-                                     v
-                              +------------+
-                              | Step 2     |
-                              +------------+
-                                     .
-                                     .
-                                     .
-                                     |
-                                     v
-                              +------------+
-                              | End        |
-                              +------------+
-
+ <img src="C:/Users/ASUS/Downloads/flow_page-0001.jpg" alt="flowchart" title="Cartesian Coordinates 2D" width="50%">
+-                            
 - ...
 
 # Video
