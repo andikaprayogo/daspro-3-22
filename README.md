@@ -26,7 +26,7 @@ Proyek ini merupakan sebuah program menghitung total harga belanja. Program ini 
  - Kemudian terdapat perulangan kedua yang dimana perulangan tersebut berfungsi untuk menghitung total harga belanja sebelum didiskonkan.
  - Selanjutnya jika total harga belanja yang sudah dihitung tadi lebih dari Rp 500000.00, maka akan mendapatkan diskon 10% dan akan menghasilkan output di layar  penjelasan bahwasannya user mendapatkan diskon 10%. Jika total harga belanja yang dihitung tadi lebih dari Rp 100000.00, maka akan mendapatkan diskon 5% dan akan menghasilkan output di layar penjelasan bahwasannya user mendapatkan diskon 5%. Jika total harga belanja yang dihitung tadi kurang dari Rp 100000.00, maka user tidak mendapatkan diskon dan menghasilkan output di layar penjelasan bahwannya user tidak mendapatkan diskon.
  - Setelah itu, akan dilakukan proses perhitungan total harga belanja yang sudah termasuk diskon menggunakan rumus yang sudah ditentukan. 
- - Terakhir berdasarakan proses yang sudah dijelaskan di atas, maka output yang ditampilkan di layar adalah total harga belanja sebelum didiskonkan, penjelasan mengenai diskon yang didapat, dan total harga belanja yang sudah termasuk diskon.
+ - Terakhir berdasarkan proses yang sudah dijelaskan di atas, maka output yang ditampilkan di layar adalah total harga belanja sebelum didiskonkan, penjelasan mengenai diskon yang didapat, dan total harga belanja yang sudah termasuk diskon.
  - Selesai.
                          
 
