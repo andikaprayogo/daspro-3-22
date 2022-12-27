@@ -1,0 +1,112 @@
+program HitungTotalBelanja;
+
+type
+  // Record untuk menyimpan data produk
+  Product = record
+    nama: string; //tipe data yang digunakan untuk menyimpan barisan karakter
+    harga: real; //ipe data real digunakan untuk angka desimal (pecahan)
+  end;
+
+var
+  // Array of record untuk menyimpan daftar produk yang dibeli
+  daftarProduk: array[1..100] of Product;
+  // Pointer untuk menunjuk ke elemen array daftarProduk
+  p: ^Product;
+  // Variabel untuk menyimpan jumlah produk yang dibeli
+  jumlahProduk: integer;
+  // Variabel untuk menyimpan total harga belanja
+  totalBelanja: real;
+  // Variabel untuk menyimpan diskon yang diberikan
+  diskon: real;
+
+// Procedure untuk mengisi daftar produk yang dibeli
+procedure isiDaftarProduk;
+var
+  i: integer;
+begin
+  write('Masukkan jumlah produk yang dibeli: '); readln(jumlahProduk);
+
+  // Inisialisasi pointer p
+  p := @daftarProduk[1];
+
+  for i := 1 to jumlahProduk do
+  begin
+    writeln('--------------------------------------');
+    write('Masukkan nama produk ke-', i, ': '); readln(p^.nama);
+    write('Masukkan harga produk ke-', i, ': '); readln(p^.harga);
+
+    // Pindah ke elemen selanjutnya di array
+    inc(p);
+  end;
+end;
+
+// Function untuk menghitung total harga belanja
+function hitungTotalBelanja: real;
+var
+  i: integer;
+  total: real;
+begin
+  total := 0;
+
+  // Inisialisasi pointer p
+  p := @daftarProduk[1];
+
+  for i := 1 to jumlahProduk do
+  begin
+    total := total + p^.harga;
+
+    // Pindah ke elemen selanjutnya di array
+    inc(p);
+  end;
+  hitungTotalBelanja := total;
+end;
+
+// Procedure untuk menghitung diskon yang diberikan
+procedure hitungDiskon;
+begin
+  if totalBelanja > 500000 then
+    diskon := 0.1
+  else if totalBelanja > 100000 then
+    diskon := 0.05
+  else
+    diskon := 0;
+end;
+
+//procedure untuk mengetahui persentase diskon yang didapat
+procedure persentase_diskon;
+begin
+  if hitungTotalBelanja > 500000 then
+  begin
+    writeln('Karna total belanja > 500000, maka anda mendapakat diskon 10%')
+    end
+  else if hitungTotalBelanja > 100000 then
+  begin
+    writeln('Karna total belanja > 100000, maka anda mendapakat diskon 5%')
+    end
+  else
+    writeln('Maaf, anda tidak mendapatkan diskon');
+end;
+
+begin
+  // Isi daftar produk yang dibeli
+  writeln('|==========Program untuk Menghitung Total Harga Belanja==========|');
+  isiDaftarProduk;
+  writeln('--------------------------------------');
+  writeln('/---------------------------Output---------------------------\');
+  // Hitung total harga belanja
+  totalBelanja := hitungTotalBelanja;
+
+  // Hitung diskon yang diberikan
+  hitungDiskon;
+
+  // Hitung total harga belanja yang sudah termasuk diskon
+totalBelanja := totalBelanja - (totalBelanja * diskon);
+
+   //Tampilkan total harga sebelum diskon
+   writeln('Total harga belanja sebelum didiskonkan: ', hitungTotalBelanja:0:2);
+   //tampilkan persentase diskon yang didapat
+   persentase_diskon;
+  // Tampilkan total harga belanja yang sudah termasuk diskon
+  writeln('Total harga belanja yang sudah termasuk diskon: ', totalBelanja:0:2);
+  writeln('\------------------------------------------------------------/');
+end.
