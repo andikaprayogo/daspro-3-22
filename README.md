@@ -19,6 +19,11 @@ Proyek ini merupakan sebuah program menghitung total harga belanja. Program ini 
 # Alur Program
  - Flowchart
  ![Flowchart untuk menghitung total harga belanja_page-0001](https://user-images.githubusercontent.com/116491264/209615597-f1e73d54-244c-4bd9-80a0-19a24701a20f.jpg)
+ 
+ - Mulai
+ - Waktu saat program dijalankan akan di tampilkan judul proyek di bagian paling atas
+ - Program meminta untuk memasukkan jumlah produk yang dibeli dari user
+   Di sini akan dilakukan proses perulangan 
                          
 
 # Video
