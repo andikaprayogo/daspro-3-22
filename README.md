@@ -20,7 +20,8 @@ Proyek ini merupakan sebuah program ... yang berfungsi untuk ... dan dapat digun
  
 
 <img src="https://user-images.githubusercontent.com/116491264/209610475-842e07a8-f66e-4037-a74b-8aea87a49f8d.jpg" alt="Flowchart" title="Flowchart" width="50%">
--                            
+-   ![flow_page-0001](https://user-images.githubusercontent.com/116491264/209611244-14803689-7e47-4de9-8261-87e4a76569d1.jpg)
+                         
 - ...
 
 # Video
