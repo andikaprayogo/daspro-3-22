@@ -6,7 +6,7 @@ NIM  : 221401050
 Kom  : B  
 Lab  : Dasar Pemrograman 3  
 Asisten Lab : Andrew Benedictus Jamesie  
-Tahun Ajaran : Ganjil 2022/2023  a
+Tahun Ajaran : Ganjil 2022/2023  
 
 Ilmu Komputer Laboratory Center  
 Program Studi Ilmu Komputer  
