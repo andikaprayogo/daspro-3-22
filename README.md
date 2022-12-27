@@ -17,9 +17,9 @@ Universitas Sumatera Utara
 Proyek ini merupakan sebuah program ... yang berfungsi untuk ... dan dapat digunakan oleh ... Program ini dapat bermanfaat bagi ... dan membantu ... Program ini bertujuan untuk ... (dst.)
 
 # Alur Program
- ![Flowchart](C:/Users/ASUS/Downloads/flow_page-0001.jpg)
+ 
 
- <img src="C:/Users/ASUS/Downloads/flow_page-0001.jpg" alt="flowchart" title="Cartesian Coordinates 2D" width="50%">
+ ![flow_page-0001](https://user-images.githubusercontent.com/116491264/209610475-842e07a8-f66e-4037-a74b-8aea87a49f8d.jpg)
 -                            
 - ...
 
